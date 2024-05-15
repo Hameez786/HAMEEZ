@@ -1,0 +1,13 @@
+html
+<HTML>
+<html lang="en">
+<title>Survey</title>
+<body>
+<Form action="mailto=hameezmudd5555@gmail.com" method="get">
+<p> Your Name
+<input type="text" size="20" maxlength="15" name"name1">
+</p>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
